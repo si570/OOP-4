@@ -18,6 +18,15 @@ public class Arrays {
         Array[9] = 1000;
 
         System.out.println("Element at index 0: "+ Array[0]);
+        System.out.println("Element at index 0: "+ Array[1]);
+        System.out.println("Element at index 0: "+ Array[2]);
+        System.out.println("Element at index 0: "+ Array[3]);
+        System.out.println("Element at index 0: "+ Array[4]);
+        System.out.println("Element at index 0: "+ Array[5]);
+        System.out.println("Element at index 0: "+ Array[6]);
+        System.out.println("Element at index 0: "+ Array[7]);
+        System.out.println("Element at index 0: "+ Array[8]);
+        System.out.println("Element at index 0: "+ Array[9]);
 
 
     }
