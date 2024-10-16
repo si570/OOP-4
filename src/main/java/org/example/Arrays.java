@@ -28,6 +28,11 @@ public class Arrays {
         System.out.println("Element at index 0: "+ Array[8]);
         System.out.println("Element at index 0: "+ Array[9]);
 
+        for(int i=0; i < Array.length; i++){
+            System.out.println(Array[i]);
+        }
+
+
 
     }
 }
