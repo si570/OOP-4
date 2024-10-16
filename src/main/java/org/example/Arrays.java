@@ -22,6 +22,11 @@ public class Arrays {
             System.out.println(Array[i]);
         }
 
+        for(int i=0; i < Array.length; i++){
+            System.out.println(Array[i]);
+        }
+
+
 
     }
 }
